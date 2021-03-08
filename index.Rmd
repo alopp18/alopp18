@@ -1,0 +1,28 @@
+---
+title: "Andrew Oppliger"
+image: "headshot.jpeg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/AndyOppliger"
+  - label: GitHub
+    url: "https://github.com/alopp18"
+  - label: Email
+    url: "mailto:alopp18@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+
+## Education
+
+**The Ohio State University** | Columbus, Ohio
+
+B.S. in Aquatic and Fisheries Sciences | August 2015 - December 2019
+
+## Experience
+
+**Great Lakes Cooperative Research Institute** | Research Fellow | May 2019 - August 2019
+
+**Washington Department of Fish and Wildlife** | Research Scientist | May 2020 - September 2020
